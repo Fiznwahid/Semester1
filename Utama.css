@@ -1,0 +1,75 @@
+body {
+    background-color: red;
+}
+header {
+    background-color: blue;
+    color: white;
+}
+footer {
+    background-color: red;
+}
+h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    border-top: solid;
+    border-bottom: solid;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    border-top: solid;
+    border-bottom: solid;
+    border-left: solid;
+    border-right: solid;
+    
+}
+
+.container1 {
+    width: 800px;
+    margin: 2px auto;
+    border-style: solid;
+    color: blue;
+}
+.kotak2 {
+    width: 800px;
+    margin: 2px auto;
+    border-style: solid;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: blue;
+}
+.container3 {
+    width: 800px;
+    margin: 2px auto;
+    border-style: solid;
+    color: blue;
+}
+.container4 {
+    width: 800px;
+    margin: 2px auto;
+    border-style: solid;
+    color: blue;
+}
+.container5 {
+    width: 800px;
+    margin: 2px auto;
+    border-style: solid;
+    color: blue;
+}
+.container6 {
+    width: 800px;
+    margin: 2px auto;
+    border-style: solid;
+    color: blue;
+}
+.container7 {
+    width: 800px;
+    margin: 2px auto;
+    border-style: solid;
+    color: blue;
+}
+img {
+    float: left;
+}
